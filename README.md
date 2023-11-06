@@ -1,1 +1,4 @@
 # Hostel-Recommendation-System
+
+In a bustling city like Bangalore, where Christ University students come from far and wide, the need for a hostel recommendation system becomes essential to simplify their accommodation search. For that, a personalized PG/Hostel Recommendation System was developed that leverages cutting-edge content-based and location-based filtering techniques to enhance the efficiency of student accommodation search.
+This innovative system harnesses the power of Natural Language Processing (NLP) techniques such as Tokenization, Stopwords Removal, Lemmatization, and Cosine Similarity. By doing so, it creates a tailored recommendation system designed specifically for Christ University students, ensuring that they find accommodations that perfectly match their needs and preferences.
